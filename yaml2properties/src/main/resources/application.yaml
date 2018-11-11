@@ -1,0 +1,13 @@
+#ddddd
+spring:
+  profiles:
+    active: prod
+    active22: prod22
+    sub:
+       sub11.aa: 11
+       sub22: 22    
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/test
+    username: root
+    password: root

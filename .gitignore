@@ -7,8 +7,10 @@
 .factorypath
 .project
 .settings
+.metadata
 .springBeans
 .sts4-cache
+RemoteSystemsTempFiles
 
 ### IntelliJ IDEA ###
 .idea
