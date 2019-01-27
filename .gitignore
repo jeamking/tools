@@ -7,6 +7,7 @@
 .factorypath
 .project
 .settings
+.mvn
 .metadata
 .springBeans
 .sts4-cache
